@@ -149,6 +149,13 @@
   font-weight: 600;
 }
 
+/* Booking Page */
+.booking-form form {
+  display: grid;
+  max-width: 200px;
+  gap: 20px
+}
+
 /* Footer */
 .footer {
   background-color: #333333;
